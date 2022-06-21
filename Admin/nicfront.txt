@@ -1,0 +1,1 @@
+   echo "<td>";?><img src="../Member/uploads/NIC front side/<?=$row['cus_NICFront']?>" style="height:50px;width:50px;border-radius: 20%;position:relative;top:70px"><?php ; "</td>";
